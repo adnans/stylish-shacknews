@@ -30,3 +30,6 @@ div#banner .links li+li+li+li:hover {background: #662d91; } /*purple chatty  (is
 /* Log In / me , inbox, setting, logout area  - slightly bigger text, and purple rollover*/
 div#banner .login a {display: inline-block; font-size: 12px; padding: 0 2px; }
 div#banner .login a:hover { background: #662d91; color: white; }
+
+/* Remove underline from REPLY button */
+div.reply a:link {text-decoration: none;}
