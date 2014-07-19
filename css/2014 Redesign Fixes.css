@@ -62,3 +62,6 @@ div.reply a:link {text-decoration: none;}
 /* Remove underline from chatty settings/commentsblock, unless hovering */
 #chatty_settings a:link {text-decoration: none;}
 #chatty_settings a:hover {text-decoration: underline;}
+
+/* Line up "see all X comments" with poster name */
+.article_copy .comment .more_comments {margin: -4px 0 0 5px !important; }
