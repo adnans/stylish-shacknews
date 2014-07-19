@@ -68,4 +68,5 @@ div#message_buttons {text-align: center;
 /* Purple background behind featured image headlines
   for better readability */
 .featuredimg_wrapper h2, .semi-featuredimg_wrapper h2 {background-color: rgba(102,45,145,0.6);
-  	width: 100%;}
+  	width: 100%;
+	padding-left: 3px;}
