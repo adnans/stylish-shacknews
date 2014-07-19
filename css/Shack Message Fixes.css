@@ -9,14 +9,16 @@ Fixes misc. things on shack messages page.
 */
 
 /* Shack Message Inbox, Sent, and Compose New Message buttons */
-.message-button {font-family: Lato, sans-serif;
-	font-size: 18px !important;}
+.message-button {font-family: 'Lato', sans-serif;
+	font-size: 18px !important;
+	font-style: italic;}
 div#message_buttons {text-align: center;
 	margin: 10px 0 10px 0;}
 
 /* Shack Message Showing XX of YY and previous page link font fix */
-.message-nav-bar div {font-family: Lato, sans-serif;
-  	font-weight: 900 !important;}
+.message-nav-bar div {font-family: 'Lato', sans-serif;
+  	font-weight: 900 !important;
+	font-style: italic;}
 
 /* Shack Message Center pagination menu */
 .message-nav-bar .navigate-column {text-align: center;}
