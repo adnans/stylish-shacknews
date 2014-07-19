@@ -43,19 +43,24 @@ div.reply a:link {text-decoration: none;}
 #banner .login {background: #000 !important;}
 #banner .login a {color: #fff !important;}
 
-/* Shack Message Updates */
-/* Inbox, Sent, and Compose New Message buttons */
+/* Shack Message Inbox, Sent, and Compose New Message buttons */
 .message-button {font-family: Lato, sans-serif;
 	font-size: 18px !important;}
 div#message_buttons {text-align: center;
 	margin: 10px 0 10px 0;}
 
-/* Showing XX of YY and previous page link font fix */
+/* Shack Message Showing XX of YY and previous page link font fix */
 .message-nav-bar div {font-family: Lato, sans-serif;
   	font-weight: 900 !important;}
 
-/* Center pagination menu */
+/* Shack Message Center pagination menu */
 .message-nav-bar .navigate-column {text-align: center;}
 
-/* Move check/delete links more to the right */
+/* Shack Message Move check/delete links more to the right */
 .message-nav-bar .actions-column {float: right;}
+
+/* Make headlines more readable on news stories */
+.article-header h2 {background-color: rgba(102,45,145,0.6);
+	bottom: -9px !important;
+	left: 0px !important;
+	width: 100%;}
