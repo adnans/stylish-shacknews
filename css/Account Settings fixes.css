@@ -1,0 +1,25 @@
+/*
+
+Shacknews 2014 Fixes
+
+Applies to: shacknews.com
+
+Fixes misc. broken things on Shacknews account settings page
+
+*/
+
+/* Applying some fonts */
+body.page-settings #nav-buttons .privacy-review {font-family: 'Lato', sans-serif;}
+
+#form-wrapper fieldset>legend {font-family: 'Lato', sans-serif;}
+
+#form-wrapper label {font-family: 'Open Sans', sans-serif;}
+
+#form-wrapper .check-group {font-family: 'Open Sans', sans-serif;}
+
+/* Put relevent color on different tags */
+/* Need better values */
+label[for=show-nws] { color: red; }
+label[for=show-stupid] { color: green; }
+label[for=show-offtopic] { color: yellow; } /* bright text on bright background. a+++ */
+label[for=show-political] { color: orange; }
