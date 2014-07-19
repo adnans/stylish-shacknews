@@ -13,7 +13,8 @@ Fixes misc. broken things across Shacknews
 
 /* Fixes the font used for post authors */
 /* I have terrible taste and seem to like this Lato font */
-.postmeta .author { font-family: 'Lato', sans-serif }
+.postmeta .author { font-family: 'Lato', sans-serif;
+	font-style:italic;}
 
 /* fix for featured images not being zoomed when over text over image */
 .featuredimg_wrapper h2, .semi-featuredimg_wrapper h2 {
