@@ -70,3 +70,6 @@ div#message_buttons {text-align: center;
 .featuredimg_wrapper h2, .semi-featuredimg_wrapper h2 {background-color: rgba(102,45,145,0.6);
   	width: 100%;
 	padding-left: 3px;}
+
+/* Make author by line readable */
+.article .author {font-weight: 600 !important;}
