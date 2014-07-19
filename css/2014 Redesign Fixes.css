@@ -57,3 +57,7 @@ div.reply a:link {text-decoration: none;}
 
 /* Make author by line readable */
 .article .author {font-weight: 600 !important;}
+
+/* Remove underline from chatty settings/commentsblock, unless hovering */
+div.commentsblock a:link {text-decoration: none;}
+div.commentsblock a:hover {text-decoration: underline;}
