@@ -10,10 +10,10 @@ Fixes misc. broken things on Shacknews account settings page
 
 /* Applying some fonts */
 body.page-settings #nav-buttons .privacy-review {font-family: 'Lato', sans-serif;
-	font-style: italics}
+	font-style: italic}
 
 #form-wrapper fieldset>legend {font-family: 'Lato', sans-serif;
-	font-style: italics}
+	font-style: italic}
 
 #form-wrapper label {font-family: 'Open Sans', sans-serif;}
 
