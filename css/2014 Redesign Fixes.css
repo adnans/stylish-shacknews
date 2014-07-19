@@ -44,14 +44,14 @@ div.reply a:link {text-decoration: none;}
 #banner .login a {color: #fff !important;}
 
 /* Make headlines more readable on news stories */
-.article-header h2 {background-color: rgba(102,45,145,0.6);
+.article-header h2 {background-color: rgba(102,45,145,0.5);
 	bottom: -9px !important;
 	left: 0px !important;
 	width: 100%;}
 
 /* Purple background behind featured image headlines
   for better readability */
-.featuredimg_wrapper h2, .semi-featuredimg_wrapper h2 {background-color: rgba(102,45,145,0.6);
+.featuredimg_wrapper h2, .semi-featuredimg_wrapper h2 {background-color: rgba(102,45,145,0.5);
   	width: 100%;
 	padding-left: 3px;}
 
