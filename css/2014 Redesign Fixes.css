@@ -33,3 +33,7 @@ div#banner .login a:hover { background: #662d91; color: white; }
 
 /* Remove underline from REPLY button */
 div.reply a:link {text-decoration: none;}
+
+/* Grim Fandango Cancelled */
+#top-bar {height: 5px !important;}
+#top-bar ul {display: none;}
