@@ -6,3 +6,7 @@ div[id*='lol_'] {font-family:sans-serif;
 
 /* Remove underline from lol buttons */
 a.lol_button {text-decoration: none !important;}
+
+/* Remove font changes from username dropdown */
+ul.userDropdown {font-family:sans-serif;
+  font-style: normal;}
