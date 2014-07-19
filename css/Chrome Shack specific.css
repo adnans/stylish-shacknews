@@ -1,0 +1,8 @@
+/* Specific changes for Chrome Shack */
+
+/* Remove font changes from lol buttons */
+div[id*='lol_'] {font-family:sans-serif;
+	font-style: normal;}
+
+/* Remove underline from lol buttons */
+a.lol_button {text-decoration: none !important;}
