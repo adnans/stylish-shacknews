@@ -42,3 +42,12 @@ div.reply a:link {text-decoration: none;}
 /* Make banner menu buttons blend in */
 #banner .login {background: #000 !important;}
 #banner .login a {color: #fff !important;}
+
+/* Shack Message Updates */
+/* Inbox, Sent, and Compose New Message buttons */
+.message-button {font-family: Lato, sans-serif;
+	font-size: 18px !important;}
+
+/* Showing XX of YY and previous page link font fix */
+.message-nav-bar div {font-family: Lato, sans-serif;
+  	font-weight: 900 !important;}
