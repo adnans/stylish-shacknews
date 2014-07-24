@@ -45,6 +45,8 @@ div.reply a:link {text-decoration: none;}
 #banner .login a {color: #fff !important;}
 
 /* Make headlines more readable on news stories */
+/* This needs to be fixed. Headline breaks free from
+ story when browser is horizontally too narrow */
 .article-header h2 {background-color: rgba(102,45,145,0.5);
 	bottom: -9px !important;
 	left: 0px !important;
